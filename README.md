@@ -29,7 +29,7 @@ Machine Learning secara umum terbagi menjadi tiga jenis utama:
 
 | Nama Algoritma | Deskripsi Singkat |
 |----------------|-------------------|
-| Linear Regression | Memprediksi nilai kontinu berdasarkan hubungan linier antar fitur. |
+| [Linear Regression](https://github.com/arofiqimaulana/Statistics/tree/master/Linear%20Regression) | Memprediksi nilai kontinu berdasarkan hubungan linier antar fitur. |
 | Logistic Regression | Klasifikasi biner berdasarkan probabilitas. |
 | Decision Tree | Membuat model seperti pohon keputusan untuk klasifikasi dan regresi. |
 | Random Forest | Ensemble dari banyak pohon keputusan untuk meningkatkan akurasi. |
