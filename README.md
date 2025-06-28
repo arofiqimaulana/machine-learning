@@ -31,12 +31,12 @@ Machine Learning secara umum terbagi menjadi tiga jenis utama:
 |----------------|-------------------|
 | [Linear Regression](https://github.com/arofiqimaulana/Statistics/tree/master/Linear%20Regression) | Memprediksi nilai kontinu berdasarkan hubungan linier antar fitur. |
 | Logistic Regression | Klasifikasi biner berdasarkan probabilitas. |
-| Decision Tree | Membuat model seperti pohon keputusan untuk klasifikasi dan regresi. |
-| Random Forest | Ensemble dari banyak pohon keputusan untuk meningkatkan akurasi. |
-| Support Vector Machine (SVM) | Mencari hyperplane terbaik yang memisahkan data antar kelas. |
-| K-Nearest Neighbors (KNN) | Mengklasifikasikan data berdasarkan tetangga terdekat. |
-| Gradient Boosting / XGBoost | Model ensemble berbasis boosting untuk prediksi yang kuat. |
-| Naive Bayes | Klasifikasi berbasis teorema Bayes dengan asumsi independensi antar fitur. |
+| [Decision Tree](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Decision%20Tree) | Membuat model seperti pohon keputusan untuk klasifikasi dan regresi. |
+| [Random Forest](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning/Random%20Forest) | Ensemble dari banyak pohon keputusan untuk meningkatkan akurasi. |
+| [Support Vector Machine (SVM)](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Support%20Vector%20Machine) | Mencari hyperplane terbaik yang memisahkan data antar kelas. |
+| [K-Nearest Neighbors (KNN)](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/K-Nearest%20Neighbor) | Mengklasifikasikan data berdasarkan tetangga terdekat. |
+| [Gradient Boosting / XGBoost](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Ensemble%20Learning) | Model ensemble berbasis boosting untuk prediksi yang kuat. |
+| [Naive Bayes](https://github.com/arofiqimaulana/Artificial-Intelligence/tree/master/Supervised%20Learning/Naive%20Bayes )| Klasifikasi berbasis teorema Bayes dengan asumsi independensi antar fitur. |
 
 ---
 
