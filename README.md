@@ -72,6 +72,16 @@ Machine Learning secara umum terbagi menjadi tiga jenis utama:
 - **PyTorch** – Framework DL fleksibel
 - **XGBoost**, **LightGBM** – Boosting yang efisien
 
+# 🛠️ Perbandingan Tools
+| **Fitur**               | **Keras**                          | **TensorFlow**                       | **PyTorch**                          |
+|-------------------------|------------------------------------|--------------------------------------|--------------------------------------|
+| **Tingkat Abstraksi**   | Tinggi (API tingkat tinggi)        | Menyediakan fleksibilitas lebih tinggi | Sedikit lebih rendah dibanding Keras, tapi sangat fleksibel |
+| **Kemudahan Penggunaan**| Sangat mudah digunakan             | Lebih sulit, tapi lebih fleksibel    | Lebih mudah dibanding TensorFlow, lebih fleksibel dibanding Keras |
+| **Fleksibilitas**       | Terbatas jika dibandingkan dengan PyTorch dan TensorFlow | Sangat fleksibel, terutama untuk aplikasi skala besar | Sangat fleksibel, terutama dalam penelitian |
+| **Dukungan Platform**   | Terintegrasi dengan TensorFlow, Theano, CNTK | Mendukung berbagai platform (mobile, cloud, embedded) | Kurang optimal untuk beberapa platform (terutama untuk mobile) |
+| **Penggunaan Umum**     | Model dasar, prototyping cepat     | Model kompleks, deployment skala besar | Penelitian, eksperimen, prototyping cepat |
+
+
 ---
 
 ## 📚 Referensi Belajar
