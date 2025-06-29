@@ -80,7 +80,7 @@ Machine Learning secara umum terbagi menjadi tiga jenis utama:
 | **Fleksibilitas**       | Terbatas jika dibandingkan dengan PyTorch dan TensorFlow | Sangat fleksibel, terutama untuk aplikasi skala besar | Sangat fleksibel, terutama dalam penelitian |
 | **Dukungan Platform**   | Terintegrasi dengan TensorFlow, Theano, CNTK | Mendukung berbagai platform (mobile, cloud, embedded) | Kurang optimal untuk beberapa platform (terutama untuk mobile) |
 | **Penggunaan Umum**     | Model dasar, prototyping cepat     | Model kompleks, deployment skala besar | Penelitian, eksperimen, prototyping cepat |
-
+| **Dikembangkan**     | François Chollet, Google     | Google Brain Team | Facebook's AI Research (FAIR) |
 
 ---
 
